@@ -1,4 +1,5 @@
 # 🗺️ LajuRaya SMG: Early Warning System Banjir Rob Berbasis Web
+![Pratinjau Aplikasi LajuRaya SMG](preview.png)
 
 LajuRaya SMG adalah aplikasi prototipe dashboard berbasis web yang dirancang khusus sebagai sistem peringatan dini (*Early Warning System*) banjir rob di kawasan industri Semarang (seperti Kaligawe dan Genuk). Proyek ini dikembangkan khusus untuk memfasilitasi manajemen risiko mobilitas dan keselamatan para pekerja, terutama **pekerja perempuan** yang terikat sistem *shift* kerja.
 
