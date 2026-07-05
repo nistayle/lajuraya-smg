@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const lokasi = simLokasi.value;
 
-        fetch('http://127.0.0.1:5000/api/predict', {
+        fetch('/api/predict', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ lokasi: lokasi })
