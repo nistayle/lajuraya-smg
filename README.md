@@ -29,3 +29,6 @@ Proyek ini diajukan sebagai pemenuhan **Tugas Akhir Basic Kelas** atas dukungan 
    Masuk ke folder proyek, aktifkan virtual environment kamu, lalu jalankan:
    ```bash
    python backend/app.py
+
+## Lihat DEMO
+https://lajuraya-smg.vercel.app
